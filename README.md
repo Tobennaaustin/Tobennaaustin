@@ -1,20 +1,19 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm [Teddy-Austin Tobenna Pascal]!
 
 Welcome to my GitHub profile! I'm a passionate web developer and designer with a love for creating beautiful and functional digital experiences. My skill set includes front-end technologies, back-end development, and a keen eye for design aesthetics.
 
 ## 🚀 What I Do
 
-- 💻 Full-stack web development
+- 💻 Front-end web development
 - 🎨 UI/UX design
 - 🖌️ Figma enthusiast
 
 ## 🌐 Tech Stack
 
 - **Languages:** HTML, CSS, JavaScript (ES6+)
-- **Front-end:** React, Vue, Angular
-- **Back-end:** Node.js, Express, Django
-- **Database:** MongoDB, MySQL, PostgreSQL
-- **Tools:** Git, Webpack, Babel
+- **Front-end:** HTML, CSS, Javascript
+- **Database:** Mysql
+- **Tools:** Git
 - **Design:** Figma, Adobe Creative Suite
 
 ## 🎨 Design Philosophy
