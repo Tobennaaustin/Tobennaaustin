@@ -5,16 +5,16 @@ Welcome to my GitHub profile! I'm a passionate web developer and designer with a
 ## 🚀 What I Do
 
 - 💻 Front-end web development
-- 🎨 UI/UX design
 - 🖌️ Figma enthusiast
+- 💻 Backend development 
 
 ## 🌐 Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript (ES6+)
+- **Languages:** HTML, CSS, JavaScript (ES6+), PHP 
 - **Front-end:** HTML, CSS, Javascript
 - **Database:** Mysql
-- **Tools:** Git
-- **Design:** Figma, Adobe Creative Suite
+- **Tools:** Git, Firebase
+- **Design:** Figma
 
 ## 🎨 Design Philosophy
 
