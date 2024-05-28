@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Teddy-Austin Tobenna Pascal]!
+# 👋 Hello, I'm Teddy-Austin Tobenna Pascal!
 
 Welcome to my GitHub profile! I'm a passionate web developer and designer with a love for creating beautiful and functional digital experiences. My skill set includes front-end technologies, back-end development, and a keen eye for design aesthetics.
 
