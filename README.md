@@ -27,10 +27,8 @@ I am particularly interested in cloud engineering and am actively working toward
 
 ## 🤝 Let's Connect
 
-- [Portfolio](https://your-portfolio-url.com)
+- [Portfolio](https://tobenna-portfolio.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/tobenna-austin-a8724128b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Twitter](https://twitter.com/your-twitter-handle)
-
 Feel free to explore my repositories, ask questions, or collaborate on interesting projects. I'm always open to learning and growing together! ✨
 
 Happy coding! 🚀
